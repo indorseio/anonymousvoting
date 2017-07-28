@@ -175,13 +175,5 @@ Ideas:
 * Update unit testing (Should be broken due to recent changes I made).
 
 To Fix:
-* We have changed the code since the Economist Challenge... and the unit testing still needs updated.
-* GUI was changed during the Economist Challenge (my old and very reliable gui was too geeky/ugly!). It should WORK fine! But bugs might exist... Ideally would like to revamp GUI from scratch. Are you a designer? Get in in touch! 
+* We are in the process of merging these contracts with our React and NodeJS code base which will simulate the Anonymous Indorsement Protocol.
 
-This project demonstrates the current limitation of cryptographic protocols on the Ethereum network.
-
-We need to think of how Ethereum can better natively support cryptography... to avoid the limits we reached.
-
-I release this code under the MIT license https://choosealicense.com/licenses/mit/
-
-p.s. If you find any bugs in our code - then fix it and provide a pull request :) ... or at least tell me about them... patrick.mccorry@ncl.ac.uk
