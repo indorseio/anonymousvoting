@@ -1,4 +1,9 @@
-# Open Vote Network
+# Anonymous Indorsement Protocol (AIP)
+
+What is the Anonymous Indorsement Protocol (AIP)?
+=========================
+
+AIP is based on the Open Vote Network developed by Patrick McCory from UCL. Indorse is going to use this algorithm and modify it so that instead of a boardroom voting process, the process will simulate the Indorsement Protocol detailed in the white paper at indorse.io.
 
 
 What is the Open Vote Network?
